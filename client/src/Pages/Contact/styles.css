@@ -1,0 +1,17 @@
+.contact {
+    font-weight: bold;
+    color: gray;
+    background-color: #ffff;
+    margin-top: 150px;
+    display: inline-block;
+    
+}
+
+p {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.centerText {
+    text-align: center;
+}

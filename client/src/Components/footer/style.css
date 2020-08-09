@@ -1,0 +1,15 @@
+.fixed-bottom {
+    width: 100%;
+    position: fixed;
+    bottom: 0
+}
+
+footer {
+    background-color: cadetblue;
+    color: #ffff;
+    height: 4rem;
+}
+
+p {
+    padding-top: 14px;
+}
