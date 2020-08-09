@@ -10,7 +10,7 @@ const About = () => (
         </h1>
         <div className='row'>
             <div className='col-4'>
-                <img src={require('../../assets/images/IMG_0029.jpg')} alt="Coding pic"/>
+                <img src={require('../../assets/images/IMG_0029.jpg')} alt="Me pic"/>
             </div>
             <div className='col-8'>
                 <p>
