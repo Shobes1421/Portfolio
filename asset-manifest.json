@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.59ece434.chunk.css",
+    "main.js": "/Portfolio/static/js/main.369b29b7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.369b29b7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.117e356d.chunk.js": "/Portfolio/static/js/2.117e356d.chunk.js",
+    "static/js/2.117e356d.chunk.js.map": "/Portfolio/static/js/2.117e356d.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.26356fd49215b7a3579839f73d6a064e.js": "/Portfolio/precache-manifest.26356fd49215b7a3579839f73d6a064e.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.59ece434.chunk.css.map": "/Portfolio/static/css/main.59ece434.chunk.css.map",
+    "static/js/2.117e356d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.117e356d.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.png": "/Portfolio/static/media/Budget-Tracker.a87c4fb6.png",
+    "static/media/Dayplannerpic.jpeg": "/Portfolio/static/media/Dayplannerpic.d8c45fc4.jpeg",
+    "static/media/Fitness-Tracker.png": "/Portfolio/static/media/Fitness-Tracker.0733e01a.png",
+    "static/media/IMG_0029.jpg": "/Portfolio/static/media/IMG_0029.8d988276.jpg",
+    "static/media/Note-Taker.png": "/Portfolio/static/media/Note-Taker.3736770e.png",
+    "static/media/Weather Dashboard.png": "/Portfolio/static/media/Weather Dashboard.d9cb21ad.png",
+    "static/media/the-sloshed-guide-screenshot.png": "/Portfolio/static/media/the-sloshed-guide-screenshot.813b686f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.117e356d.chunk.js",
+    "static/css/main.59ece434.chunk.css",
+    "static/js/main.369b29b7.chunk.js"
+  ]
+}
